@@ -1,0 +1,1 @@
+{"data":{"errorCode":"E02002","errorInfo":"外部システムとの接続にオーバータイムが発生しました。","sign":"RzZYNTBlbWpZN0xlaHFDT1B3QlhoUnhmbnBEa3VhN1QwQ2lJUTkyVWJ1M2I5b1lIWld1QjF4Um52R2owclhoNEFJbCsvM3duZkRhVEd0aXg5a0NURFMrajRJeFhYZ1BsNWY5SFZ2SWFDSE0xTWJia2VsdEkydlV3cm5IWEp1UmRJS1pnSm1aa0xjZ09JTmtqVHZKamlwYi9GZEFJWVZNWFg5LzM3YU51UFpFPQ==","subErrorCode":""},"meta":{"code":"02","message":"FAILURE"}}

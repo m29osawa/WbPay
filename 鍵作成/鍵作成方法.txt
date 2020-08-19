@@ -1,0 +1,18 @@
+
+署名に使用する鍵の生成方法
+
+鍵の生成には、opensslを使用する。
+使用する鍵ファイルのフォーマットはPEMとする。
+
+手順
+
+１）秘密鍵の生成
+OpenSSL> genrsa -out rsa_private_key.pem   2048  #秘密キーを生成（標準形式：PKCS1）
+
+２）秘密鍵より、公開鍵を生成する
+
+OpenSSL> rsa -in rsa_private_key.pem -pubout -out rsa_public_key.pem #公開キーを生成
+
+
+以上
+

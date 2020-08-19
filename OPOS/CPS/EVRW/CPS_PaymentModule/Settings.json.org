@@ -1,0 +1,8 @@
+{"locale": "JAPAN",
+"timeZone": "p9",
+"storeCode": "",
+"termCode": "",
+"currencyCode": "JPY",
+"appVersion": "windows-linepay-1.0.0", 
+"UrlHead": "https://tgateway.wpay.cmediajapan.com/gateway/", 
+"MerchantID":""}

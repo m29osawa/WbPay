@@ -1,0 +1,20 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\OLEforRetail\ServiceOPOS\ElectronicValueRW\CPS_PaymentModule]
+@="OPOS.EVRW.CPS_PaymentModule"
+"LogFileName"="C:\\OPOS\\CPS\\EVRW\\CPS_PaymentModule\\Log\\IntegratedSO.log"
+"LogLevel"="2"
+"LogCreateDate"=""
+"LogNumber"=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\OLEforRetail\ServiceOPOS\ElectronicValueRW\CPS_PaymentModule\0]
+"AP-ID"="0"
+"FilePath"="C:\\OPOS\\CPS\\EVRW\\CPS_PaymentModule\\EVRW_CPM_SubService.dll"
+"LogFileName"="C:\\OPOS\\CPS\\EVRW\\CPS_PaymentModule\\Log\\CPMSS.log"
+"LogLevel"="2"
+"ServiceName"="CPM"
+"LogNumber"="1"
+"LogCreateDate"="20190731"
+"SendTimeout"="5000"
+"ReceiveTimeout"="5000"
+"ConnectionTimeout"="10000"

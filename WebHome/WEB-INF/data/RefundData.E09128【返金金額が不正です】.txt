@@ -1,0 +1,1 @@
+{"data":{"errorCode":"E09128","errorInfo":"返金金額が不正です。","sign":"eVkybjFTS01CU3gxWTd6cVBXaUFhY0NYazlZbnVjU1RhOW56RWtKelVhYU5ScXAzN2poczI2Zi93eDg5a3RCZDRQeXhYR2Y0YmpIWDJma21rMnFrYS9BUGpIS0QrTjZEUEQwOW9nY0xOUjYzRlR3REpkdmJCWDdNM0NmeGJhYXI0bEVFalhlOG90TFJWY2NXa2NLSnM4dlVPZmhOK3Y3Q3B1anNwZzFYMWtrPQ==","subErrorCode":""},"meta":{"code":"09","message":"FAILURE"}}

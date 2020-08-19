@@ -1,0 +1,1 @@
+{"data":{"errorCode":"E09301","errorInfo":"残高不足","result":{},"sign":"alpuRlpQNDF1dFNKK3d1ZVVVd0hScmxXNEFYdXpvRTNVenNDL3RzQmpOb2psT2R5a0ZoV3BqV2N0OFdLdlpYMXFxVHBJZUdwSDJ2L0xrS1FsN1I0OWczbUNncjBUYndjejlpYjdrTWFKTUlpRTNSZmFMYzRNOWx0TmV5QVlLOXpucFlUUFM2NC9NZFNSYkdNamx2WEdoTk1WbzZUVitYZFFUa1A2bld0Z1FvPQ==","subErrorCode":"NOT_ENOUGH"},"meta":{"code":"09","message":"FAILURE"}}

@@ -1,0 +1,1 @@
+{"data":{"errorCode":"E09135","errorInfo":"取消トランザクションが返金できません。","sign":"V1BaSzJnelNrem5RNVpQeGVEL0JRTXgvS0g1UktyM3pBaTlTUnZIN2ljYS9uejU1ejZydm1CaHRJTlJTMlVZNDRFUmRoZVQyOGFHbGNBc0sva3RBWG8xKzJGWGEvYVBFWnR1eFA4cnQraWhqM0hSenhnR0pJSlBJVmpxMkFPaTY1WDZLZi9oUldyeEFmQ3ljTnV6UWRCL2FzdkhCaUNaU1M5ai9XRkpzTEQwPQ==","subErrorCode":""},"meta":{"code":"09","message":"FAILURE"}}

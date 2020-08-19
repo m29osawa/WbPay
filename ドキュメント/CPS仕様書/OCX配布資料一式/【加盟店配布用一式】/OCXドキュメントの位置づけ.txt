@@ -1,0 +1,23 @@
+【仕様書一覧】
+　├  installer
+　├  readme.txt
+　│
+　├─テストツール
+　│      AxInterop.OposElectronicValueRW_CCO.dll
+　│      EVRWTest.exe
+　│      Interop.OposElectronicValueRW_CCO.dll
+　│
+　└─設計書
+　    ├─01-基本設計
+　    │      EVRW_APG_PAYTREECPMSS.pdf
+　    │      EVRW_APG_統合SO.pdf
+　    │      インストーラー仕様書.pdf
+　    │
+　    ├─02-詳細設計
+　    │      PAYTREECPM_OSS利用一覧.pdf
+　    │      PAYTREE対応OPOSドライバ設定項目一覧.pdf
+　    │      シーケンス仕様書_PAYTREECPMSS.pdf
+　    │
+　    └─03-別紙
+             PAYTREE接続先情報_20190620.pdf
+             （参考）レスポンスコード一覧_r27.pdf

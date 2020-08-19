@@ -1,0 +1,52 @@
+
+このフォルダー自体は、VisualStudioのソリューションになっています。
+
+MakeCPSServerResponse
+	VisualStudioのプロジェクト
+	CPSPay開発用のスタブサーバ用で使う
+	レスポンス用のデータを作るため
+	
+SampleCPS
+	VisualStudioのプロジェクト
+	CPSPayのサンプルプログラム
+
+TestCPS
+	VisualStudioのプロジェクト
+	CPSPayのライブラリ開発時のテスト用
+
+TestCPSOCX
+	VisualStudioのプロジェクト
+	CPS提供のOCXのテスト用
+
+WbPay
+	VisualStudioのプロジェクト
+	ライブラリ本体
+	ここのソースファイルのうち、
+	WbCPSPayTest.cs は開発時のテスト用のソースのため、
+	リリース用のコンパイルをする際は、外すこと
+
+OPOS
+	CPS提供のOCXのための設定など
+	OCXを使うときは、Cドライブに配置する
+
+WebHome
+	CPSPayテスト用のスタブサーバ(tomcat)のためのコンテキストホーム
+	
+WellbaHome
+	WbPayのアプリケーションホーム、設定ファイルなどのデフォルトがある
+	WbPayを使うときは、Cドライブに配置する
+	
+ドキュメント
+	ライブラリドキュメント
+	CPSから提供されたドキュメント
+	CPSとの質問、解答などのやり取りの記録
+
+鍵作成
+	WbCPSPayのための鍵作成用
+
+
+証明書(tomcat用)
+	CPSPay開発用のスタブサーバのための証明書作成用（オレオレ証明書）
+
+
+

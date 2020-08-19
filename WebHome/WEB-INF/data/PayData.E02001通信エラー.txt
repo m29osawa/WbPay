@@ -1,0 +1,1 @@
+{"data":{"errorCode":"E02001","errorInfo":"通信エラーが発生しました。","result":{},"sign":"WU9pWlFoUWlDQ0RITVM5THVEU0lCWitkT3FrNmdhVG1xSHBsQ3ZLdWp1K3ZmcWd2S3IzbDdIZ1RDbDU0N2NZK3FLZ2s3TzNXNURVeit2WGliRlE2ak5aZFZzRHlQSzBVTXI1ZTM4WEZYTXVrcTFHTTFoRXZrM05hR2pNbHl6VS9SU0QzUlBKUVFreUpxSTF6SXlKbmNtOXN5TktLMzVNSjNuMW9UZW1IZFpJPQ==","subErrorCode":""},"meta":{"code":"02","message":"FAILURE"}}

@@ -1,0 +1,8 @@
+{"locale": "JAPAN",
+"timeZone": "p9",
+"storeCode": "AShop001",
+"termCode": "BTer001",
+"currencyCode": "JPY",
+"appVersion": "windows-linepay-1.0.0", 
+"UrlHead": "http://localhost:8080/gateway/", 
+"MerchantID":"100368591042"}

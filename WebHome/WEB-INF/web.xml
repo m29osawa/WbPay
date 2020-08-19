@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
+                      http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+  version="4.0"
+  metadata-complete="true">
+
+    <description>
+      Servlet and JSP Examples.
+    </description>
+
+    <servlet>
+      <servlet-name>Sample1</servlet-name>
+      <servlet-class>Sample1</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Sample1</servlet-name>
+        <url-pattern>/Sample1</url-pattern>
+    </servlet-mapping>
+    
+    <servlet>
+      <servlet-name>pay</servlet-name>
+      <servlet-class>Pay</servlet-class>
+    </servlet>
+    <servlet>
+      <servlet-name>refund</servlet-name>
+      <servlet-class>Refund</servlet-class>
+    </servlet>
+    <servlet>
+      <servlet-name>reverse</servlet-name>
+      <servlet-class>Reverse</servlet-class>
+    </servlet>
+    <servlet>
+      <servlet-name>orderQuery</servlet-name>
+      <servlet-class>OrderQuery</servlet-class>
+    </servlet>
+    <servlet>
+      <servlet-name>orderDetailQuery</servlet-name>
+      <servlet-class>orderDetailQuery</servlet-class>
+    </servlet>
+    <servlet>
+      <servlet-name>confirm</servlet-name>
+      <servlet-class>Confirm</servlet-class>
+    </servlet>
+    <servlet>
+      <servlet-name>deposit</servlet-name>
+      <servlet-class>Deposit</servlet-class>
+    </servlet>
+    
+    <servlet-mapping>
+        <servlet-name>pay</servlet-name>
+        <url-pattern>/pay/*</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>pay</servlet-name>
+        <url-pattern>/stubPay/*</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>refund</servlet-name>
+        <url-pattern>/refund/*</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>refund</servlet-name>
+        <url-pattern>/stubRefund/*</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>reverse</servlet-name>
+        <url-pattern>/reverse/*</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>reverse</servlet-name>
+        <url-pattern>/stubReverse/*</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>orderQuery</servlet-name>
+        <url-pattern>/orderQuery/*</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>orderDetailQuery</servlet-name>
+        <url-pattern>/orderDetailQuery/*</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>confirm</servlet-name>
+        <url-pattern>/confirm/*</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>confirm</servlet-name>
+        <url-pattern>/stubConfirm/*</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>deposit</servlet-name>
+        <url-pattern>/deposit/*</url-pattern>
+    </servlet-mapping>
+    
+</web-app>
